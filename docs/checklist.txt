@@ -7,4 +7,12 @@ Acesso: pop3
 
 Módulo: Tratamento de Email
 Checklist:
-1 - 
+1 - Requisição de emails novos
+	1.1 - Obter domínio para pesquisar no servidor os dados do cliente
+	1.2 - Obter link do registro.br do email
+
+Módulo: Envio de Email
+Checklist:
+1 - Envio de emails para clientes
+	1.1 - Com os dados obtidos a partir do email, obter os dados do cliente no servidor
+	1.2 - Enviar email pré-definido para o cliente
