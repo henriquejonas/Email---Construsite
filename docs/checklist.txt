@@ -1,0 +1,10 @@
+Dados de Acesso: 
+URL: http://construsitebrasil.com.br:2095/
+Email Host: mail.construsitebrasil.com.br
+Usuário: registro23@construsitebrasil.com.br
+Senha: registro23
+Acesso: pop3
+
+Módulo: Tratamento de Email
+Checklist:
+1 - 
